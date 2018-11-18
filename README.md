@@ -1,2 +1,2 @@
 # HibernateLearning
-This project for learning hibernate with help of hibernate docs
+This project for learning hibernate with help of hibernate docs.
